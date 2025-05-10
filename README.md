@@ -8,8 +8,6 @@ I'm a passionate 19-year-old Computer Science student from Nepal. I love explori
 
 📫 How to reach me: Connect with me via email, LinkedIn, or drop me a message on GitHub.
 
-⚡ Fun fact: When I’m not coding, you’ll find me exploring new places in Nepal, playing mobile games, or reading sci-fi books that spark my imagination!
-
 About Me
 As a tech enthusiast, I’m always eager to learn new tools and technologies. My skills include JavaScript, Java, Python, Git, VS Code, Figma, and Canva, and I’m constantly expanding my knowledge.My goal is to build impactful projects that blend AI and web development to solve real-world challenges.
 
