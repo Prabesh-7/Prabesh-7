@@ -12,4 +12,4 @@ About Me
 As a tech enthusiast, I’m always eager to learn new tools and technologies. My skills include JavaScript, Java, Python, React , Spring Boot, Fast Api and I’m constantly expanding my knowledge.My goal is to build impactful projects that blend AI and web development to solve real-world challenges.
 
 Let’s Connect!
-I’m always open to discussing tech, AI, or potential collaborations. Feel free to check out my repositories or reach out to brainstorm ideas!
+I’m always open to discussing tech, AI, or potential collaborations. 
