@@ -1,15 +1,21 @@
-Hi, I'm Prabesh Poudel! 
-I'm a passionate 21-year-old Computer Science student from Nepal. I love exploring the world of technology, coding, and building innovative solutions. My curiosity drives me to learn, create, and collaborate on projects that make a difference.
+# 💫 About Me:
+### About Me<br><br>I'm Prabesh Poudel, a Computing graduate from Nepal with a passion for software engineering and emerging technologies. I enjoy designing and developing web applications, building backend systems, and exploring how technology can solve real-world problems.<br><br>My technical interests include full-stack development, Artificial Intelligence, and Machine Learning. I work with technologies such as Python, JavaScript, Java, Next.js, React, and FastAPI, while continuously expanding my knowledge of data science and machine learning.<br><br>Currently, I'm focused on strengthening my backend development skills, exploring machine learning algorithms, and building practical projects that combine software development with intelligent solutions.<br><br>I believe in continuous learning, writing maintainable code, and creating technology that delivers meaningful value.
 
-👀 I’m interested in: Artificial Intelligence, Machine Learning, and full-stack development. I enjoy diving into how AI can solve real-world problems and building user-friendly applications.
-🌱 I’m currently learning React, NextJS, FastApi to create dynamic and scalable web applications. I'm also brushing up on Pythonand exploring AI/ML. 
 
-💞️ I’m looking to collaborate on: Open-source projects related to AI, web development, or community-driven initiatives. I’m excited to work with others on innovative apps or AI-driven solutions, especially those relevant to Nepal’s context.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabesh-poudel-64268a356/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Prabesh7711@gmail.com) 
 
-📫 How to reach me: Connect with me via email, LinkedIn, or drop me a message on GitHub.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Prabesh-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Prabesh-7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prabesh-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-About Me
-As a tech enthusiast, I’m always eager to learn new tools and technologies. My skills include JavaScript, Java, Python, React , Spring Boot, Fast Api and I’m constantly expanding my knowledge.My goal is to build impactful projects that blend AI and web development to solve real-world challenges.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Let’s Connect!
-I’m always open to discussing tech, AI or potential collaborations. 
+---
+[![](https://komarev.com/ghpvc/?username=Prabesh-7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
