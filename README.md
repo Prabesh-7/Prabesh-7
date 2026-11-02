@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### About Me<br><br>I'm Prabesh Poudel, a Computing graduate from Nepal with a passion for software engineering and emerging technologies. I enjoy designing and developing web applications, building backend systems, and exploring how technology can solve real-world problems.<br><br>My technical interests include full-stack development, Artificial Intelligence, and Machine Learning. I work with technologies such as Python, JavaScript, Java, Next.js, React, and FastAPI, while continuously expanding my knowledge of data science and machine learning.<br><br>Currently, I'm focused on strengthening my backend development skills, exploring machine learning algorithms, and building practical projects that combine software development with intelligent solutions.<br><br>I believe in continuous learning, writing maintainable code, and creating technology that delivers meaningful value.
 
 
